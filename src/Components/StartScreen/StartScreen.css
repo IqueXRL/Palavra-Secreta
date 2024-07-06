@@ -1,0 +1,15 @@
+.StartScreen{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+}
+h1{
+    font-size: 48px;
+
+}
+
+p{
+    color: gold;
+}

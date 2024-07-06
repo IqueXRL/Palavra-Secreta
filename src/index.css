@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+button{
+    font-size: 32px ;
+    background-color: rgb(0, 28, 65);
+    border:solid 4px white;
+    color: white;
+    font-weight: 600;
+    padding: 12px;
+    border-radius: 30px;
+}
+
+button:hover{
+    background-color: aqua;
+    color: black;
+    border: solid 4px  black;
+}

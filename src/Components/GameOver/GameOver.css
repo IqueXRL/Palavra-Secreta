@@ -1,0 +1,15 @@
+h1,h2{
+    text-align: center;
+}
+
+.GameOverDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+h2 span {
+    color: gold;
+    font-size: 32px;
+}
+
